@@ -9,7 +9,7 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata = {
-  title: "Thiệp cưới nhà gái",
+  title: "Thiệp cưới nhà trai",
   description: "Wedding Invitation",
 };
 
