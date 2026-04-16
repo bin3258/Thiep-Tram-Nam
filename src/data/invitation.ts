@@ -2,6 +2,8 @@ export const invitationData = {
   Nhatrai: {
     bride: "NGỌC THẢO",
     groom: "TRUNG ĐỨC",
+    heroText: "It's been a long time, see you at the wedding!",
+    heroDate: "29.11.2025",
     parents: {
       brideSide: {
         father: "Ông: Nguyễn Văn A",
@@ -73,7 +75,7 @@ export const invitationData = {
       ],
       image: "/images/lover.png"
     },
-   couple: {
+    couple: {
       bride: {
         name: "Ngọc Thảo",
         image: "/images/bride.png",
