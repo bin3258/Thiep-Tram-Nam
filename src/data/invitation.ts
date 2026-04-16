@@ -2,6 +2,8 @@ export const invitationData = {
   nhaGai: {
     bride: "NGỌC THẢO",
     groom: "TRUNG ĐỨC",
+    heroText: "It's been a long time, see you at the wedding!",
+    heroDate: "29.11.2025",
     parents: {
       brideSide: {
         father: "Ông: Nguyễn Văn A",
